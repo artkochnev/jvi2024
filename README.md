@@ -1,5 +1,5 @@
 # Intro
-Use the links below to read the synopsis and rules of the simulation game for battle the economic crisis in Sordland
+Use the links below to read the synopsis and rules of the simulation game to battle the economic crisis in Sordland
 
 # Rules and synopsis
 - [Synopsis](https://docs.google.com/document/d/15juAxNB723WSjATR3tLiKKuT5jAz50QtnRQr4jAxya0/edit?usp=sharing)
