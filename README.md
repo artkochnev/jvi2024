@@ -8,6 +8,5 @@ Use the links below to read the synopsis and rules of the simulation game to bat
 # Links to Excel Sheets
 - [Government](https://docs.google.com/spreadsheets/d/1iyMSf30Ozekj5_NP1yQ_HF4LdwpRGQJfUrBuUY-VTOo/edit?usp=sharing)
 - [Parliament](https://docs.google.com/spreadsheets/d/1N_9TLkyU_WdiUp1r1RzDmJhWB0ViyLkcMnKlr4sbTQ0/edit?usp=sharing)
-- [Banks](https://docs.google.com/spreadsheets/d/1Xw0LWr15I79e0HchwyGT-d5Br9wU98HdbBMOdT_rEfs/edit?usp=sharing)
 - [Population](https://docs.google.com/spreadsheets/d/1WcbFieBeN__2Uq4LQWVFnyaF7Kp43HYQ14eJWPHCf30/edit?usp=sharing)
 - [Central bank](https://docs.google.com/spreadsheets/d/1vtumNbMZAOrRLsZQ5cc21PmcFIwKhyQyYT8ByvSlaa4/edit?usp=sharing)
