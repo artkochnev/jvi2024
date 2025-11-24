@@ -10,3 +10,7 @@ Use the links below to read the synopsis and rules of the simulation game to bat
 - [Parliament](https://docs.google.com/spreadsheets/d/17CTxS4_fpPfHW8L-c130Wo0OacmhlH_9_KYbU9PNu58/edit?usp=sharing)
 - [Population](https://docs.google.com/spreadsheets/d/1I8P4tGrPMzCPEtG33_zhYCgFLsPceecISi8oAOUO86w/edit?usp=sharing)
 - [Central bank](https://docs.google.com/spreadsheets/d/1ZX3-4ZUvPbPOXa9cniHWk8Jh7FYOFAr5-y0VB3BYYts/edit?usp=sharing)
+
+Master
+https://docs.google.com/spreadsheets/d/1JI3RH7ekel3mETeAg1v_Miu7SttUVmqpOkLDzX18c8E/edit?usp=sharing
+
